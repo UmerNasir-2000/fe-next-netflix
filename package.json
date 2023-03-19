@@ -2,6 +2,13 @@
   "name": "fe-next-netflix",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Umer Nasir",
+    "email": "umer.nas@outlook.com"
+  },
+  "repository": {
+    "url": "https://github.com/UmerNasir-2000/fe-next-netflix"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
